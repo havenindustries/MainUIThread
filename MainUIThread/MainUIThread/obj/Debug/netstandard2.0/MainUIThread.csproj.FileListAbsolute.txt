@@ -1,0 +1,12 @@
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\bin\Debug\netstandard2.0\MainUIThread.deps.json
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\bin\Debug\netstandard2.0\MainUIThread.dll
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\bin\Debug\netstandard2.0\MainUIThread.pdb
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\MainUIThread.csprojAssemblyReference.cache
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\MainUIThread.csproj.CoreCompileInputs.cache
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\MainUIThread.AssemblyInfoInputs.cache
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\MainUIThread.AssemblyInfo.cs
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\MainUIThread.dll
+C:\Users\kenne\source\repos\MainUIThread\MainUIThread\MainUIThread\obj\Debug\netstandard2.0\MainUIThread.pdb
